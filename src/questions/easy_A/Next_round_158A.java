@@ -8,6 +8,7 @@ public class Next_round_158A {
 
         Scanner scan = new Scanner(System.in);
         int len = scan.nextInt();
+        int index = scan.nextInt();
         int[] arr = new int[len];
 
         for(int i =0;i<arr.length;i++){
@@ -17,12 +18,12 @@ public class Next_round_158A {
         }
 
         int ans = 0;
-        System.out.println("enter index");
-        int index = scan.nextInt();
+      int qrr = arr[index-1];
 
-        for(int i=0;i<=index;i++){
 
-            if(arr[i] < index){
+        for(int i=0;i<len;i++){
+
+            if(arr[i] >= qrr && arr[i] > 0){
                 ans++;
             }
         }
