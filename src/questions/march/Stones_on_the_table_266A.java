@@ -1,3 +1,5 @@
+package questions.march;
+
 import java.util.Scanner;
 
 public class Stones_on_the_table_266A {
