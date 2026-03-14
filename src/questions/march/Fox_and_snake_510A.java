@@ -7,7 +7,7 @@ public class Fox_and_snake_510A{
     public static void main(String[] args){
         
         Scanner scan = new Scanner(System.in);
-        
+//        ANSWER IS BY CHARTGPT
         int n = scan.nextInt();
         int m = scan.nextInt();
 
