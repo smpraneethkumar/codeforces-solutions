@@ -2,7 +2,7 @@ package questions.march;
 
 import java.util.*;
 
-public class KEfa_and_fisrt_steps{
+public class Kefa_and_fisrt_steps_580A {
     
     public static void main(String[] args){
         
