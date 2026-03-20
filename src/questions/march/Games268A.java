@@ -5,7 +5,10 @@ import java.util.*;
 public class Games268A{
     
     public static void main(String[] args){
-        
+
+int aa = 5+6;
+int b = aa-6   ;
+        System.out.println(b);
         
         Scanner scan = new Scanner(System.in);
         
