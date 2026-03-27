@@ -14,7 +14,7 @@ public class yes_or_yes_1703A{
             
             String s = scan.next().toLowerCase();
             
-            if(s.equals("yes")){
+            if(s.equals("yes") ){
                 
                 System.out.println("YES");
             }else{
