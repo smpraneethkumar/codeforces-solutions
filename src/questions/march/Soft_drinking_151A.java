@@ -16,7 +16,7 @@ public class Soft_drinking_151A {
         int nl = scan.nextInt();
         int np = scan.nextInt();
 
-        int drinks =  k * l / n;
+        int drinks =  k * l / nl;
         int a = c*d;
         int toastsSalt = p/np;
 
