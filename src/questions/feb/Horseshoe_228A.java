@@ -1,4 +1,4 @@
-package questions.easy_A.feb;
+package questions.feb;
 
 import java.util.*;
 
