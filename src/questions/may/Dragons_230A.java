@@ -11,7 +11,7 @@ public class Dragons_230A{
         int s = scan.nextInt();
         int n = scan.nextInt();
         
-        int[][] dragons = new int[n][2];
+        int[][] dragons = new int[n][2];    
         
         for(int i =0;i<n;i++){
             dragons[i][0] = scan.nextInt();
